@@ -1,0 +1,254 @@
+1652385573007	geckodriver	INFO	Listening on 127.0.0.1:51461
+1652385576052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileMaaPT1"
+1652385577719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileMaaPT1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51462/devtools/browser/d28dcf79-605b-47ad-9ffa-a2249c43622e
+1652385589052	Marionette	INFO	Listening on port 51490
+Read port: 51490
+1652385589235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652385601352	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-xusYJ2at0dbS1ujZyBHkA92CrhnscK4RJsdXU_Rclk.js line 1 > eval line 110 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652386125402	geckodriver	INFO	Listening on 127.0.0.1:57237
+1652386128465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileVWZOD2"
+*** You are running in headless mode.
+1652386129716	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileVWZOD2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57238/devtools/browser/766e2678-d659-4a4d-9b8c-4ea719ce59fb
+1652386135022	Marionette	INFO	Listening on port 57261
+Read port: 57261
+1652386135389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652386142740	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-xusYJ2at0dbS1ujZyBHkA92CrhnscK4RJsdXU_Rclk.js line 1 > eval line 262 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652386431540	geckodriver	INFO	Listening on 127.0.0.1:61121
+1652386434638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilemzt0tD"
+*** You are running in headless mode.
+1652386435823	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilemzt0tD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61122/devtools/browser/c2ee6d28-0a96-4f6a-a761-570d1955c2b4
+1652386441200	Marionette	INFO	Listening on port 61146
+Read port: 61146
+1652386441363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652386448988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-xusYJ2at0dbS1ujZyBHkA92CrhnscK4RJsdXU_Rclk.js line 1 > eval line 3479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652386680776	geckodriver	INFO	Listening on 127.0.0.1:51422
+1652386683795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilezFREcN"
+*** You are running in headless mode.
+1652386685036	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilezFREcN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51423/devtools/browser/58a44b74-2311-44bb-95f8-028578f658ec
+1652386689797	Marionette	INFO	Listening on port 51448
+Read port: 51448
+1652386690156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652386831120	geckodriver	INFO	Listening on 127.0.0.1:54906
+1652386834180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileqsW0XM"
+*** You are running in headless mode.
+1652386835244	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileqsW0XM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54907/devtools/browser/f24a023e-bc26-45d3-8fe9-f5b113c759f5
+1652386841405	Marionette	INFO	Listening on port 54927
+Read port: 
+1652386841573	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 54927
+1652386841733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652386851615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6kAZB2R2IkMw87P0-iGviT-Bq_noDLkkkR6BhhZ9kEI.js line 1 > eval line 4502 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652386895490	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652387306285	geckodriver	INFO	Listening on 127.0.0.1:54637
+1652387309385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile1XDtVi"
+*** You are running in headless mode.
+1652387310635	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile1XDtVi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54638/devtools/browser/2f06dac1-7993-4cbd-81cb-e63990e52352
+1652387314978	Marionette	INFO	Listening on port 54651
+Read port: 54651
+1652387315145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://isitdownorjust.me/wp-content/themes/isitdown/js/scripts.js?ver=1.0.0, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://isitdownorjust.me/wp-content/themes/isitdown/js/jquery-jvectormap-2.0.3.min.js?ver=4.3.28, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://isitdownorjust.me/wp-content/themes/isitdown/js/jquery-jvectormap-world-mill.js?ver=4.3.28, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://isitdownorjust.me/wp-content/themes/isitdown/js/tab.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://isitdownorjust.me/instagram-com/, line 169: ReferenceError: $ is not defined
+JavaScript error: https://isitdownorjust.me/instagram-com/, line 198: ReferenceError: $ is not defined
+JavaScript error: https://isitdownorjust.me/instagram-com/, line 316: ReferenceError: $ is not defined
+1652387357231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1652387379351	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1652387418959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1652387444189	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1652387790455	geckodriver	INFO	Listening on 127.0.0.1:59644
+1652387793545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile2Prs7b"
+*** You are running in headless mode.
+1652387798253	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile2Prs7b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59645/devtools/browser/59a288d0-564f-4c18-9a2e-e61017191152
+1652387811023	Marionette	INFO	Listening on port 59681
+Read port: 59681
+1652387811133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652387822865	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6kAZB2R2IkMw87P0-iGviT-Bq_noDLkkkR6BhhZ9kEI.js line 1 > eval line 4006 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+1652428490948	geckodriver	INFO	Listening on 127.0.0.1:54905
+1652428493756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54906" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilevR2sZ6"
+*** You are running in headless mode.
+1652428502982	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilevR2sZ6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54906/devtools/browser/d7f2b1eb-92d0-42f9-a216-7f51536bb248
+1652428517861	Marionette	INFO	Listening on port 54942
+Read port: 54942
+1652428518464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652428521856	Marionette	INFO	Stopped listening on port 54942
+[Parent 11004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652429578065	geckodriver	INFO	Listening on 127.0.0.1:63116
+1652429581106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilepJJkul"
+*** You are running in headless mode.
+1652429582043	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilepJJkul\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63117/devtools/browser/3bcaed4f-2658-4829-92ba-02719c49a342
+1652429587176	Marionette	INFO	Listening on port 63136
+Read port: 63136
+1652429587266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652429597774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1652430506242	geckodriver	INFO	Listening on 127.0.0.1:55189
+1652430509271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilexJOyz8"
+*** You are running in headless mode.
+1652430510220	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilexJOyz8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55190/devtools/browser/b02849a9-4ea7-4fc7-aaff-b07d3a30fb90
+1652430515798	Marionette	INFO	Listening on port 55213
+Read port: 55213
+1652430516051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652430526327	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/87D0VuGGyd8o4x1zT1VlOmQj8xrGMl1xcSeEyGhgSwY.js line 1 > eval line 5459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652430702531	geckodriver	INFO	Listening on 127.0.0.1:55333
+1652430705490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilem8Hdzm"
+*** You are running in headless mode.
+1652430706452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilem8Hdzm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55334/devtools/browser/f01b5282-d2f1-4695-8b34-102733041ec5
+1652430711496	Marionette	INFO	Listening on port 55354
+Read port: 55354
+1652430711679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:396:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2132:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1652431313075	geckodriver	INFO	Listening on 127.0.0.1:58563
+1652431316066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilezEUaPT"
+*** You are running in headless mode.
+1652431316936	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilezEUaPT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58564/devtools/browser/a3c0f468-610f-4949-bbe5-3b87b61a7cf6
+1652431321022	Marionette	INFO	Listening on port 58582
+Read port: 58582
+1652431321412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652431333355	Marionette	INFO	Stopped listening on port 58582
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1652431368251	geckodriver	INFO	Listening on 127.0.0.1:58606
+1652431371317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileiBmiAW"
+*** You are running in headless mode.
+1652431372081	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileiBmiAW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58607/devtools/browser/a6cafed0-a44b-40cb-b49a-c6aae248b9d8
+1652431376692	Marionette	INFO	Listening on port 58627
+Read port: 58627
+1652431376768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652431379400	Marionette	INFO	Stopped listening on port 58627
+1652438149604	geckodriver	INFO	Listening on 127.0.0.1:50918
+1652438152549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilez5tpo3"
+*** You are running in headless mode.
+1652438154787	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilez5tpo3\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:50919/devtools/browser/aa682ef7-eb33-44b5-bd6a-f924853e6e83
+1652438167323	Marionette	INFO	Listening on port 50954
+Read port: 50954
+1652438167535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652438171551	Marionette	INFO	Stopped listening on port 50954
+1652442498544	geckodriver	INFO	Listening on 127.0.0.1:56730
+1652442501531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHJvTxy"
+*** You are running in headless mode.
+1652442503755	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHJvTxy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56731/devtools/browser/22eabea1-0e28-47d0-a453-5f5c4c666f8b
+1652442509028	Marionette	INFO	Listening on port 56763
+Read port: 56763
+1652442509306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652442513209	Marionette	INFO	Stopped listening on port 56763
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 186: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1652442590656	geckodriver	INFO	Listening on 127.0.0.1:56803
+1652442593734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileUo7fmp"
+*** You are running in headless mode.
+1652442595226	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileUo7fmp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56804/devtools/browser/21ff5436-5104-4a0a-a77e-6f3843425a37
+1652442600281	Marionette	INFO	Listening on port 56827
+Read port: 56827
+1652442600537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652442603854	Marionette	INFO	Stopped listening on port 56827
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 186: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652469307897	geckodriver	INFO	Listening on 127.0.0.1:64400
+1652469310907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilekgALWI"
+*** You are running in headless mode.
+1652469313866	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilekgALWI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64401/devtools/browser/949650f1-3325-486e-a81a-15ef60f93ab8
+1652469323648	Marionette	INFO	Listening on port 64425
+Read port: 64425
+1652469323734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652469328433	Marionette	INFO	Stopped listening on port 64425
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
