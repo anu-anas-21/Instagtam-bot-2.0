@@ -5,7 +5,7 @@ from instabot import Bot
 my_bot = Bot()
 
 
-my_bot.login(username="anu._.anas" , password="aNASmE04082001")
+my_bot.login(username="username" , password="password")
 
 #unfollow section
 my_bot.unfollow_non_followers()
