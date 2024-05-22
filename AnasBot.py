@@ -2,7 +2,7 @@ from time import perf_counter
 from instapy import InstaPy
 
 #Login Section
-session = InstaPy(username="anu._.anas", password="aNASmE04082001", headless_browser=True)
+session = InstaPy(username="username", password="password", headless_browser=True)
 session.login()
 
 #Like Section
